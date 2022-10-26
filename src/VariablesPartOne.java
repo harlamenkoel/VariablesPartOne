@@ -64,7 +64,5 @@ public class VariablesPartOne {
         employees += 94;
         generalHours = employees * employeeHours;
         System.out.println("Если в компании работает " + employees + " человек, то всего " + generalHours + " часов работы может быть поделено между сотрудниками");
-
-
     }
 }
